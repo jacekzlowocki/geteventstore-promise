@@ -1,4 +1,3 @@
-**/.*
 **/*.tgz
 **/*.lock
 node_modules/
